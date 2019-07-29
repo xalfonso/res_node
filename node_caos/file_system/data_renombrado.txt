@@ -1,0 +1,1 @@
+Example of file for read from node
